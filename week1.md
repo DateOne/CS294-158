@@ -23,4 +23,4 @@
 3. a toy autoregressive model (a histogram and a multilayer perceptron);
 4. RNN autoregressive models (char rnn);
 4. masking-based autoregressive models: parallelized computation (rnns are slow); masked autoencoder for distribution estimation (MADE); masked temporal (1D) 
-Convolution; WaveNet; masked spatial (2D) convolutional (PixelCNN; Gated PixelCNN; PixelCNN++).
+Convolution; WaveNet; masked spatial (2D) convolutional (PixelCNN; Gated PixelCNN, more expressive architecture; PixelCNN++, mixure of logitics).
